@@ -55,28 +55,6 @@ Compiler: GCC / MinGW
 
 Version Control: Git & GitHub
 
-⚙️ How to Run the Project
-
-Clone the repository:
-
-git clone https://github.com/your-username/Music-Playlist-Manager.git
-
-Open the project folder:
-
-cd Music-Playlist-Manager
-
-Compile the C++ source file:
-
-g++ main.cpp -o playlist
-
-Run the application:
-
-./playlist
-
-For Windows:
-
-playlist.exe
-
 🎯 Project Objectives
 
 Understand the practical implementation of Data Structures and Algorithms.
